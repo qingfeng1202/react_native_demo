@@ -1,0 +1,2 @@
+＃react_native_demo
+这是一个react-native的项目案例
